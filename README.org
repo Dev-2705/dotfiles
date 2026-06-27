@@ -1,0 +1,26 @@
+#+title: Readme
+
+** Packages
+- sway
+- waybar
+- polkit (kde)
+- dunst
+- doom emacs
+- alacritty
+- rofi
+- brave
+- thunar
+- grim, slurp (check)
+- blueman
+- pavucontrol
+- nm-applet
+- lsd
+- git
+- stow
+- brightnessctl
+
+** Others
+- jetbrains nerd font
+- dracula gtk+qt, cursors, icons
+- fish shell
+- starship

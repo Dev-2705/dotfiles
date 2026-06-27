@@ -1,0 +1,43 @@
+* {
+    font-family: JetBrainsMono Nerd Font;
+    font-size: 12px;
+}
+
+#waybar {
+  background-color: #282a36;
+  color: #f8f8f2;
+}
+
+#workspaces button {
+}
+
+#workspaces button.focused {
+    background-color: #282a36;
+    color: #BD93F9;
+}
+
+
+#pulseaudio, #backlight{
+    color: #BD93F9;
+}
+
+#network{
+    color: #8BE9FD;
+}
+
+#cpu, #memory{
+    color: #50FA7B;
+}
+
+#battery{
+    color: #F1FA8C;
+}
+
+
+#clock{
+    color: #FFB86C;
+}
+
+#idle_inhibitor, #power-profiles-daemon{
+    color: #FF5555;
+}
